@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1478566451668" stop="1478566509237" version="1.4.6">
+    <name>Default Suite</name>
+    <title>Default Suite : final_project[]</title>
+    <test-cases>
+        <test-case start="1478566477683" stop="1478566482099" status="passed">
+            <name>ContactUsTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="E1"/>
+                <label name="host" value="PC"/>
+                <label name="thread" value="20852@PC.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1478566491159" stop="1478566497414" status="passed">
+            <name>IncorrectContactUsTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="E2"/>
+                <label name="host" value="PC"/>
+                <label name="thread" value="20852@PC.main"/>
+            </labels>
+        </test-case>
+        <test-case start="1478566506619" stop="1478566509177" status="passed">
+            <name>SearchTShirt</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="E4"/>
+                <label name="host" value="PC"/>
+                <label name="thread" value="20852@PC.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

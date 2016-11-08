@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1478575523704" stop="1478575546669" version="1.4.6">
+    <name>Default Suite</name>
+    <title>Default Suite : final_project[]</title>
+    <test-cases>
+        <test-case start="1478575537670" stop="1478575546504" status="passed">
+            <name>CreateAccountTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testId" value="E3"/>
+                <label name="host" value="PC"/>
+                <label name="thread" value="9196@PC.main"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
